@@ -1,0 +1,6 @@
+-d postgresql
+--skip-javascript
+--skip-hotwire
+--skip-ci
+-m https://raw.githubusercontent.com/kaochenlong/rails-template8/main/template.rb
+
